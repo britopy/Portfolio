@@ -23,7 +23,11 @@ professionnelles.
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![LinkedIn][https://www.linkedin.com/in/brito-paul-78a77b182/]
 
+Mon curriculum vitae
 ![CV](https://github.com/britopy/Portfolio/blob/main/cv%20png.png?raw=true)
 
+Mes competences academique
+![2](https://github.com/britopy/Portfolio/blob/main/2.png?raw=true)
+Connectez-vous avec moi sur linkedin
+[![LinkedIn](https://www.linkedin.com/in/brito-paul-78a77b182/)
