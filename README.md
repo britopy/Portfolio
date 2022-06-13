@@ -25,5 +25,5 @@ professionnelles.
 -->
 [![LinkedIn][https://www.linkedin.com/in/brito-paul-78a77b182/]
 
-![CV](https://github.com/britopy/Portfolio/cv png.png?raw=true
+![CV](https://github.com/britopy/Portfolio/blob/cv_png.png?raw=true
 
